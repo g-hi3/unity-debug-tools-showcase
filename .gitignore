@@ -1,8 +1,11 @@
+/.idea/
 /[Ll]ibrary/
 /[Ll]ogs/
+/[Oo]bj/
 /[Tt]emp/
 /[Uu]ser[Ss]ettings/
 
 *.sln
+*.sln.[dD]ot[sS]ettings.user
 *.csproj
 
