@@ -26,6 +26,13 @@ public sealed class SegmentedLinesTest : MonoBehaviour
 
     private void Update()
     {
-        DebugTools.DrawSegmentedLine(start.position, end.position, segmentLength, segmentSpacing, segmentColor, timeScale, depthTest);
+        DebugTools.DrawSegmentedLine(
+            start.position,
+            end.position,
+            segmentLength,
+            segmentSpacing,
+            segmentColor,
+            timeScale,
+            depthTest);
     }
 }

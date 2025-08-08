@@ -1,0 +1,16 @@
+{
+    "name": "com.g_hi3.debug-showcase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75bd09bd0e458a445813ba1f84378a19"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
